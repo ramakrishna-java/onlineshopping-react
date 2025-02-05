@@ -11,7 +11,8 @@ import './index.css'
 //import App from './07_propType/App'
 //import App from './08_LifeCycleOfComponent/App.jsx'
 //import App from './09_composableComponents/App.jsx'
-import App from './09a_composableComponents_Json-Server/App.jsx'
+//import App from './09a_composableComponents_Json-Server/App.jsx'
+import App from './10_hoc/App.jsx'
 
 createRoot(document.getElementById('root')).render(
   //<StrictMode>

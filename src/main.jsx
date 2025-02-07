@@ -15,8 +15,9 @@ import './index.css'
 //import App from './10_hoc/App.jsx'
 //import App from './11_renderProps/App.jsx'
 //import App  from './12_formHandling/App.jsx'
-import App from './14_useState_Hook/App.jsx'
-
+//import App from './14_useState_Hook/App.jsx'
+//import App from './15_hooks_useEffect/App.jsx'
+import App from './15a_useEffect/App.jsx'
 
 createRoot(document.getElementById('root')).render(
   //<StrictMode>

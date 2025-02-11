@@ -1,0 +1,1 @@
+export default ()=><h1>Sports page</h1>

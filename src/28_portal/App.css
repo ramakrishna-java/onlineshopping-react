@@ -1,0 +1,8 @@
+div.App{
+    position: absolute;
+    width: 500px;
+    background-color: lightgreen;
+    height: 500px;
+    padding: 15px;
+    margin: 15px;
+}

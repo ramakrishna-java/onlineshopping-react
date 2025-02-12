@@ -25,7 +25,8 @@ import './myindex.css'
 //import App from './16_react_routers/App.jsx'
 //import App from './17_react_routers-transition/App'
 //import App from './19_lazyLoading_CodeSplitting/App'
-import App from './28_portal/App'
+import App from './22_pureComponents/App'
+//import App from './28_portal/App'
 
 createRoot(document.getElementById('root')).render(
   //<StrictMode>

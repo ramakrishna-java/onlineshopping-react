@@ -27,8 +27,9 @@ import './myindex.css'
 //import App from './19_lazyLoading_CodeSplitting/App'
 //import App from './20_contextApi/App'
 //import App from './21_a_useContext/App'
-import App from './21_b_contextApiUseContext/App'
+//import App from './21_b_contextApiUseContext/App'
 //import App from './22_pureComponents/App'
+import App from './23_hooks_useCallback/App'
 //import App from './28_portal/App'
 
 createRoot(document.getElementById('root')).render(

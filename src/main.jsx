@@ -32,9 +32,10 @@ import './myindex.css'
 //import App from './23_hooks_useCallback/App'
 //import App from './24_hooks_useMemo/App'
 //import App from './25_hook_useRef/App'
-import App from './26_hook_useReducer/App'
+//import App from './26_hook_useReducer/App'
 //import App from './27_hooks_customHook/App'
 //import App from './28_portal/App'
+import App from './29_form_handling_react_hook_form/App'
 
 createRoot(document.getElementById('root')).render(
   //<StrictMode>

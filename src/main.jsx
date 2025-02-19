@@ -35,7 +35,10 @@ import './myindex.css'
 //import App from './26_hook_useReducer/App'
 //import App from './27_hooks_customHook/App'
 //import App from './28_portal/App'
-import App from './29_form_handling_react_hook_form/App'
+//import App from './29_form_handling_react_hook_form/App'
+//import App from './React-Assignment-01/src/App'
+//import App from './React-Assignment-02/src/App'
+import App from './React-Assignment-03/App'
 
 createRoot(document.getElementById('root')).render(
   //<StrictMode>
